@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"services","c":"StoreManagerActions","l":"handleManagerActions()"},{"p":"services","c":"StoreManagerActions","l":"StoreManagerActions(StoreFront)","u":"%3Cinit%3E(services.StoreFront)"}];updateSearchResults();
